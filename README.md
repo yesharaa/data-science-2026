@@ -23,3 +23,6 @@ Tools/library yang digunakan :
 
   Pertemuan 3
   https://github.com/yesharaa/data-science-2026/blob/main/Pertemuan3_Yesha_Faradina_240401010072.ipynb
+
+  Pertemuan 4
+  https://github.com/yesharaa/data-science-2026/blob/main/Pertemuan4_Yesha_Faradina_240401010072.ipynb
