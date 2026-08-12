@@ -44,7 +44,7 @@ Tools/library yang digunakan :
 
   Pertemuan 7 (Pengantar Machine Learning: Regresi Linear)
 
-  https://github.com/yesharaa/data-science-2026/blob/main/Pertemuan7_Yesha_Faradina_240401010072.ipynb
+  https://github.com/yesharaa/data-science-2026/blob/main/Pertemuan7_Yesha_Faradina_240401010072%20(2).ipynb
 
   Pertemuan 9 (Logistic Regression, Decision Trees, Confusion Matrix, Accuracy, Precision, Recall, dan
   F1-Score)
